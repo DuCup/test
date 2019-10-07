@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\APAX-5040PE.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\APAX-5040PE.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\bin\Release\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX_5040PE.Form_APAX_5040PE.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX_5040PE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX-5040PE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX-5040PE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX-5040PE.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX-5040PE.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5040PE\obj\Release\APAX-5040PE.pdb

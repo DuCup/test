@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\APAX-5046.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\APAX-5046.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\bin\Release\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX_5046.Form_APAX_5046.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX_5046.FormSafetySetting.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX_5046.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5046\obj\Release\APAX-5046.pdb

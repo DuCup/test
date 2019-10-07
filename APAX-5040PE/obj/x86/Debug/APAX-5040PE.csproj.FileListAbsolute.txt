@@ -1,0 +1,16 @@
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\APAX-5040PE.exe
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\APAX-5040PE.pdb
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Adam.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Common.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Protocol.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Adam.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Common.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\bin\x86\Debug\Advantech.Protocol.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.csprojAssemblyReference.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX_5040PE.Form_APAX_5040PE.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX_5040PE.Properties.Resources.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.csproj.GenerateResource.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.csproj.CoreCompileInputs.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.csproj.CopyComplete
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.exe
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5040PE\obj\x86\Debug\APAX-5040PE.pdb

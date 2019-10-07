@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Apax_IO_Module_Library.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\bin\Release\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\APAX_IO_Module_Library.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\Apax_IO_Module_Library.Wait_Form.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\APAX_IO_Module_Library.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\APAX_IO_Module_Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\APAX_IO_Module_Library.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\Apax_IO_Module_Library\obj\Release\Apax_IO_Module_Library.pdb

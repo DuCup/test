@@ -1,0 +1,93 @@
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\bin\x86\Debug\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX_5017H.Form_APAX_5017H.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX_5017H.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5017H\obj\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Form_APAX_5017H.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.pdb
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.pdb
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.dll
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.dll
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.dll
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\System.Windows.Forms.DataVisualization.dll
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.dll
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.pdb
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.xml
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.xml
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.xml
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csprojAssemblyReference.cache
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Form_APAX_5017H.resources
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Properties.Resources.resources
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.GenerateResource.cache
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CoreCompileInputs.cache
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CopyComplete
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.exe
+D:\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Form_APAX_5017H.resources
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Properties.Resources.resources
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.pdb
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.dll
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.pdb
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.xml
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CopyComplete
+C:\Users\Administrator\Desktop\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe.config
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe.config
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.exe
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\APAX-5017H.pdb
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.dll
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Apax_IO_Module_Library.pdb
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Adam.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Common.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\bin\x86\Debug\Advantech.Protocol.xml
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csprojAssemblyReference.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Form_APAX_5017H.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX_5017H.Properties.Resources.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.GenerateResource.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CoreCompileInputs.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.csproj.CopyComplete
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.exe
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-5017H\obj\x86\Debug\APAX-5017H.pdb

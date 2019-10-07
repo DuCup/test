@@ -1,0 +1,5 @@
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-Controller-Win32-Sample\obj\x86\Debug\APAX-Controller-Win32-Sample.csprojAssemblyReference.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-Controller-Win32-Sample\obj\x86\Debug\APAX_Controller_Win32_Sample.Form_APAX_Controller.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-Controller-Win32-Sample\obj\x86\Debug\APAX_Controller_Win32_Sample.Properties.Resources.resources
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-Controller-Win32-Sample\obj\x86\Debug\APAX-Controller-Win32-Sample.csproj.GenerateResource.cache
+D:\6. 工作\號誌廠資料\0917\SP_APAX-PAC-Sample20190912\APAX-Controller-Win32-Sample\obj\x86\Debug\APAX-Controller-Win32-Sample.csproj.CoreCompileInputs.cache

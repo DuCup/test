@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\APAX-5018.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\APAX-5018.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Adam.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Common.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Apax_IO_Module_Library.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Protocol.dll
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Apax_IO_Module_Library.pdb
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Adam.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Common.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\bin\Release\Advantech.Protocol.xml
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX_5018.Form_APAX_5018.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX_5018.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX-5018.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX-5018.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX-5018.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX-5018.exe
+C:\Users\Administrator\Desktop\SP_APAX-PAC-Sample\APAX-5018\obj\Release\APAX-5018.pdb
