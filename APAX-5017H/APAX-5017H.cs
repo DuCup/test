@@ -492,7 +492,7 @@ namespace APAX_5017H
         /// <returns></returns>
 
 
-        //※※※※更新資料※※※※
+        //※※※※更新資料 20191008※※※※
         private bool RefreshData() //本專案重點區域, 讀取AI值
         {
             int iChannelTotal = this.m_aConf.HwIoTotal[m_tmpidx];
