@@ -37,7 +37,7 @@ namespace APAX_5017H
         private ushort[] m_usRanges;
         private bool m_bStartFlag = false;
 
-        //Chart定義
+        //Chart圖表定義
         private Queue<double> dataQueue = new Queue<double>(100);
         private int curValue = 0;
         private int num = 10;
@@ -61,6 +61,7 @@ namespace APAX_5017H
                         + (DVICE_TYPE + " by clicking \'Start\' button."))));
         }
 
+        //初始化圖表
         void InitChart()
         {
             //清除chart
@@ -132,6 +133,7 @@ namespace APAX_5017H
                         + (APAX_INFO_NAME + ("-"
                         + (DVICE_TYPE + " by clicking \'Start\' button."))));
         }
+        
         /// <summary>
         /// Used for change I/O module 
         /// </summary>
@@ -150,6 +152,8 @@ namespace APAX_5017H
             }
             return true;
         }
+
+        //開啟裝置
         public bool OpenDevice()
         {
             m_adamCtl = new AdamControl(AdamType.Apax5000);
@@ -168,6 +172,8 @@ namespace APAX_5017H
             }
             return true;
         }
+
+        //尋找裝置
         public bool DeviceFind()
         {
             int iLoop = 0;
@@ -211,6 +217,8 @@ namespace APAX_5017H
                 return false;
             }
         }
+
+        //"開始"按鈕
         private void btnStart_Click(object sender, EventArgs e) //當UI上的Start按鈕被按下去後
         {
             string strbtnStatus = this.btnStart.Text;
@@ -234,11 +242,14 @@ namespace APAX_5017H
                 this.btnStart.Text = "Start";
             }
         }
+
+        //"結束"按鈕
         private void Btn_Quit_Click(object sender, EventArgs e)  //當UI上的Quit按鈕被按下去後
         {
             Close();
         }
 
+        //開始搖控
         public bool StartRemote()
         {
             try
@@ -271,11 +282,14 @@ namespace APAX_5017H
             this.tabControl1.SelectedIndex = 0;
             return true;
         }
+        
+        //更新設定
         /// <summary>
         /// APAX I/O module information init function
         /// </summary>
         /// <returns></returns>
         public bool RefreshConfiguration()
+
         {
             //string strModuleName; //看似重複宣告叫用, 故註解掉
 
@@ -295,10 +309,13 @@ namespace APAX_5017H
             }
             return true;
         }
+
+        //初始化 頻道資訊
         /// <summary>
         /// Init Channel Information
         /// </summary>
         /// <param name="m_aConf">apax 5000 device object</param>
+        /// 
         private void InitialDataTabPages()
         {
             int i = 0, idx = 0;
@@ -358,6 +375,9 @@ namespace APAX_5017H
         /// Get Range combobox string
         /// </summary>
         /// <param name="strRanges"></param>
+        /// 
+
+        //設定範圍的下拉式選單
         public void SetRangeComboBox(string[] strRanges) //設定Range的Combox, 故先清空原本內容及設定Count為0
         {
             cbxRange.BeginUpdate();
@@ -373,6 +393,8 @@ namespace APAX_5017H
         /// Get Burnout detect mode value combobox string
         /// </summary>
         /// <param name="strRanges"></param>
+
+        //設定燒出的下拉式選單
         public void SetBurnoutFcnValueComboBox(string[] strRanges)
         {
             cbxBurnoutValue.BeginUpdate();
@@ -388,6 +410,8 @@ namespace APAX_5017H
         /// Get Sampling rate value combobox string
         /// </summary>
         /// <param name="strSampleRate"></param>
+
+        //設定採樣率的下拉式選單
         public void SetSampleRateComboBox(string[] strSampleRate)
         {
             cbxSampleRate.BeginUpdate();
@@ -399,6 +423,8 @@ namespace APAX_5017H
                 cbxSampleRate.SelectedIndex = 0;
             cbxSampleRate.EndUpdate();
         }
+
+        //"定位"按鈕
         private void btnLocate_Click(object sender, EventArgs e)
         {
             if (btnLocate.Text == "Enable")
@@ -417,6 +443,7 @@ namespace APAX_5017H
             }
         }
 
+        //計時器
         /// <summary>
         /// 定期取得Channel資訊
         /// Periodically get Channel Information every time interval
@@ -463,6 +490,9 @@ namespace APAX_5017H
         /// Refresh AI Channel Information 
         /// </summary>
         /// <returns></returns>
+
+
+        //※※※※更新資料※※※※
         private bool RefreshData() //本專案重點區域, 讀取AI值
         {
             int iChannelTotal = this.m_aConf.HwIoTotal[m_tmpidx];
@@ -537,6 +567,8 @@ namespace APAX_5017H
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
+
+        //
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {
             string strSelPageName = tabControl1.TabPages[tabControl1.SelectedIndex].Text;
@@ -567,6 +599,8 @@ namespace APAX_5017H
                     listViewChInfo.Items[0].Selected = true;
             }
         }
+        
+        //更新範圍
         /// <summary>
         /// Get Channel information "Range" column
         /// </summary>
@@ -601,6 +635,8 @@ namespace APAX_5017H
         /// <summary>
         /// Refresh Integration time 
         /// </summary>
+
+        //更新AI設定
         private void RefreshAiSetting()
         {
             if (m_adamCtl.Configuration().GetModuleConfig(m_idxID, out m_aConf))
@@ -692,6 +728,7 @@ namespace APAX_5017H
             }
         }
 
+        //設定AI採樣率
         private void RefreshAiSampleRate()
         {
             int idx = -1;
@@ -885,7 +922,6 @@ namespace APAX_5017H
                 MessageBox.Show("Set burnout enable function failed!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Asterisk, MessageBoxDefaultButton.Button1);
             timer1.Enabled = true;
         }
-
 
         private void btnBurnoutValue_Click(object sender, EventArgs e)
         {
