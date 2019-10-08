@@ -875,6 +875,8 @@ namespace APAX_5017H
         /// <summary>
         /// Waiting Foam dialog //讀取進度條視窗
         /// </summary>
+
+         //顯示訊息
         private void showMsg()
         {
             Wait_Form FormWait = new Wait_Form();
